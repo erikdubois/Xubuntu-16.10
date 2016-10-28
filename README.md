@@ -9,7 +9,9 @@ Some icons we like ...
 
 Using Sardi icons from  http://sourceforge.net/projects/sardi/
 
-Using Super Ultra Flat Numix Remix icons from https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
+Using Surfn icons from https://github.com/erikdubois/Surfn
+
+Aureol conky can be found here https://github.com/erikdubois/Aureola
 
 
 Your result can be
