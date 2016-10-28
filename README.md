@@ -11,7 +11,7 @@ Using Sardi icons from  http://sourceforge.net/projects/sardi/
 
 Using Surfn icons from https://github.com/erikdubois/Surfn
 
-Aureol conky can be found here https://github.com/erikdubois/Aureola
+Aureola conky can be found here https://github.com/erikdubois/Aureola
 
 
 Your result can be
