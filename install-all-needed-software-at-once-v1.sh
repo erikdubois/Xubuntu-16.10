@@ -135,6 +135,7 @@ sudo apt install -y grub-customizer variety
 # fixing error gtk-warning-unable-to-locate-theme-engine-in-module-path-adwaita-error
 # making assets mint-y-colora
 sudo apt install gnome-themes-standard -y
+sudo apt install usb-creator-gtk -y
 
 ############################################################################
 
