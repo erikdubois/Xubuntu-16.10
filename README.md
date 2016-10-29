@@ -1,6 +1,5 @@
 # Ultimate Xubuntu 16.10
 
-
 We start our journey with a clean install.
 
 Take a look at the various scripts and run the ones you like. Change content if need be.
@@ -8,7 +7,6 @@ Take a look at the various scripts and run the ones you like. Change content if 
 
 # All information can be found on http://erikdubois.be
 
-Some icons we like ...
 
 Using Sardi icons from  http://sourceforge.net/projects/sardi/
 
@@ -31,6 +29,3 @@ You can do whatever <b>Y O U</b> want.
 
 Share the knowledge.
 ------------------------------------
-
-
-
